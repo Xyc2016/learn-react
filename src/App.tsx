@@ -1,10 +1,10 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import { Hello } from './components/Hello';
+import { FlexContainer } from './components/LearnFlex';
 
 function App() {
-  return <Hello />
+  return <FlexContainer />;
 }
 
 export default App;
