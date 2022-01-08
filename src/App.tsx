@@ -1,10 +1,10 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import {LearnTransition} from './components/LearnTransition';
+import {LearnECharts} from './components/LearnECharts';
 
 function App() {
-  return <LearnTransition />;
+  return <LearnECharts />;
 }
 
 export default App;
